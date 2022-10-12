@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/acslamet](https://github.com/acslamet)
 
+- 📝 Check out my tableau portfolio [https://public.tableau.com/app/profile/acslamet](https://public.tableau.com/app/profile/acslamet)
+
 - 📫 How to reach me **acslamet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
