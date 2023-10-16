@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A.C. Slamet and I'm a Junior Data Analyst</h1>
+<h1 align="center">Hi 👋, I'm A.C. Slamet and I'm a Data Analyst</h1>
 <h3 align="center">A passionate Data Analyst from Los Angeles, CA</h3>
 
 - 🌱 I’m currently doing an **Externship with Prepare 4VC**
